@@ -28,7 +28,7 @@ while (numberOfGuessesLeft>0):
                 x = secretWord[i:].find(guess)
                 hiddenWord= hiddenWord[0:i+1]+guess.upper()+hiddenWord[i+2:]
 
-        if ("-" in hiddenWord):
+       # if ("-" in hiddenWord):
                 print ("Correct!")
     else:
         numberOfGuessesLeft-=1
