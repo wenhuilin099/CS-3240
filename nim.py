@@ -1,5 +1,5 @@
 # Mark Sherriff (mss2x)
-
+# Not quite understand this game
 # This program plays the game of Nim.
 
 # - The game of Nim is a two player game - this version is player vs. computer.
